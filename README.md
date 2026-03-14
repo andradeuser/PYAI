@@ -38,7 +38,7 @@ PYAI/
 
 ## Autores
 
-- **João Victor Andrade da Silva**
+- **João Vitor Andrade da Silva**
 - **Pedro Romero Massedo**
 - **Guilherme Cicarello Girata**
 
