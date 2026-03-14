@@ -36,6 +36,12 @@ PYAI/
 └── ...
 ```
 
+## Funcionalidades Atuais
+
+- Exercicio 1: leitura de 5 numeros inteiros e soma dos elementos.
+- Exercicio 2: calculo de estatisticas (media, mediana, menor e maior valor) com quantidade variavel de entradas.
+- Validacao basica de entrada para evitar erro quando o usuario digita texto no lugar de numero.
+
 ## Autores
 
 - **João Vitor Andrade da Silva**
