@@ -45,4 +45,3 @@ PYAI/
 ## Licença
 
 Este projeto é de uso acadêmico, desenvolvido no contexto da Especialização GENAI — UFPR.
-
